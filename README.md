@@ -3,7 +3,7 @@ Olá! Meu nome é Giuliana Cabral e eu criei o **Mental Help Game**: um **quiz**
 
 Ele foi criado com o intuito de fazer as pessoas perceberem que muitas coisas que elas dizem, mesmo que na boa intenção, machucam e não ajudam em nada - na maioria das vezes, até pioram a pessoa que já estava sofrendo.
 
-Clique aqui para jogar ou clique aqui para ver a apresentação.
+[Clique aqui para jogar](https://giulianacab.github.io/finalgame-mentalhelp/) ou [clique aqui para ver a apresentação](https://drive.google.com/file/d/1S1zuDq3vNzhy1QKOnyxHUWwuI49MASCW/view?usp=sharing).
 
 Veja a carinha inicial do jogo:
 ![enter image description here](https://images2.imgbox.com/49/95/w1qCt6Ah_o.png)
